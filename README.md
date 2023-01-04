@@ -1,7 +1,7 @@
 # BMI-calculator-Cpp
 
 ```
-The formula for calculating body mass index (BMI) is 𝐵𝑀𝐼=𝑤𝑒𝑖𝑔ℎ𝑡(𝑘𝑔)[ℎ𝑒𝑖𝑔ℎ𝑡(𝑚)]^2
+The formula for calculating body mass index (BMI) is 𝐵𝑀𝐼=𝑤𝑒𝑖𝑔ℎ𝑡(𝑘𝑔)/[ℎ𝑒𝑖𝑔ℎ𝑡(𝑚)]^2
 ```
 
 Create a BMI calculator application that reads the user’s weight in kilograms and then height in meters, then calculates and displays the user’s BMI. Also, the application should display the following information so the user can evaluate his/her BMI:
